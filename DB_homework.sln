@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB_homework", "DB_homework\DB_homework.csproj", "{02B843CA-0F14-47CC-98F4-40A35823B533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B843CA-0F14-47CC-98F4-40A35823B533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B843CA-0F14-47CC-98F4-40A35823B533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B843CA-0F14-47CC-98F4-40A35823B533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B843CA-0F14-47CC-98F4-40A35823B533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44D07CC3-5992-41A3-B64F-C3F33DAD8175}
+	EndGlobalSection
+EndGlobal
